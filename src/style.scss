@@ -1,0 +1,11 @@
+
+body {
+  overscroll-behavior: none;
+  touch-action: none;
+}
+
+.app {
+  display: grid;
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+}
